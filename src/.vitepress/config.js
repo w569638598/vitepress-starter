@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Hello VuePress',
     description: 'Just playing around',
-    outDir: '../public',
+    outDir: '../docs',
     srcDir: './pages',
     head: [
         ['link', {rel: 'preconnect'}]
