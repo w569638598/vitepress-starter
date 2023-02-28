@@ -3,6 +3,7 @@ module.exports = {
     description: 'Just playing around',
     outDir: '../docs',
     srcDir: './pages',
+    base: '//vitepress-starter//',
     head: [
         ['link', {rel: 'preconnect'}]
     ],
