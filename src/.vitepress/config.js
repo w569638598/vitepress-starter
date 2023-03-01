@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Hello VuePress',
+    title: '个人简历 王力',
     description: 'Just playing around',
     outDir: '../docs',
     srcDir: './pages',
