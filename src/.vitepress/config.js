@@ -10,6 +10,12 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Guide', link: '/getting-started' },
+        ],
+        sidebar: [
+            {
+                text: '表格简介',
+                link: '/sideBar'
+            }
         ]
     }
 }
